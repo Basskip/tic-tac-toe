@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+#alert-area {
+    width: 500px;
+    margin: 0 auto;
+    height: 40px;
+
+    text-align: center;
+    font: 700 40px/40px sans-serif;
+}
+
+#game-board {
+    width: 500px;
+    height: 500px;
+
+    margin: 0 auto;
+    display: grid;
+
+    border: 2px solid black;
+}
+
+#controls {
+    margin: 30px auto;
+    width: 600px;
+}
+
+.game-space {
+    border: 1px solid grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font: 700 40px/40px sans-serif;
+}
