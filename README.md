@@ -3,10 +3,10 @@
 A project from [The Odin Project's](https://www.theodinproject.com/courses/javascript/lessons/tic-tac-toe-javascript) curriculum, creating a small Tic-Tac-Toe app to learn some JavaScript
 
 ## Things I learned
-* 
+* How to use Factory Functions and the (Module pattern)[https://coryrylan.com/blog/javascript-module-pattern-basics]
 
 ## Things to work on
-* 
+* Extension: draw a line through the winning squares
 
 # Check it out yourself
 
